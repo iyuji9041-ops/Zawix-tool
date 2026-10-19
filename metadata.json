@@ -1,0 +1,6 @@
+{
+  "name": "Zaswix Tools",
+  "description": "All-in-One Android Toolkit featuring calculators, converters, text tools, notes, QR tools, image compression, file info, password generator, date utilities, and daily tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
